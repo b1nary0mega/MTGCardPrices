@@ -1,0 +1,19 @@
+FILE: MTGCardPrices
+AUTH: James R. Aylesworth
+DATE: 30-MAY-2013
+DESC: This program will download prices from TCGPlayer.com
+      for paper cards. It will then list the High, Mid & Low
+      values for each card.
+      
+      Currently this only performs the above stated actions
+      for the Dragon's Maze set.
+      
+PLAN: Eventually this will be used to create a price list for
+      my bots on MTGO.
+      
+MISC: I'm providing this program and ALL code AS IS. There are
+      no guarantees, promises and/or agreements between myself
+      and any user. I am in no way affiliated with TCG Player
+      and they do not support this program, make any promises
+      guarantees and/or agreements of any kind either in regards
+      to this program.
